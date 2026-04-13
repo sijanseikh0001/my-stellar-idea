@@ -69,8 +69,8 @@ The smart contract includes the following core functions:
 ---
 
 ## 🔗 Deployed Smart Contract Link
-
-`XXX`
+Contract Address: CDANZ5TX3ONYTGD4EC6S37YQIPFBGCYD4KX7JR7IBRTD3CYYGBW6IRXL
+`[Link](https://stellar.expert/explorer/testnet/contract/CDANZ5TX3ONYTGD4EC6S37YQIPFBGCYD4KX7JR7IBRTD3CYYGBW6IRXL)`
 
 > Replace this placeholder with your deployed contract address or a link from Stellar Explorer after deployment.
 
